@@ -1,0 +1,16 @@
+C:\Users\Grinya\source\repos\UserData\UserPIN\bin\Debug\net5.0\UserPIN.exe
+C:\Users\Grinya\source\repos\UserData\UserPIN\bin\Debug\net5.0\UserPIN.deps.json
+C:\Users\Grinya\source\repos\UserData\UserPIN\bin\Debug\net5.0\UserPIN.runtimeconfig.json
+C:\Users\Grinya\source\repos\UserData\UserPIN\bin\Debug\net5.0\UserPIN.runtimeconfig.dev.json
+C:\Users\Grinya\source\repos\UserData\UserPIN\bin\Debug\net5.0\UserPIN.dll
+C:\Users\Grinya\source\repos\UserData\UserPIN\bin\Debug\net5.0\ref\UserPIN.dll
+C:\Users\Grinya\source\repos\UserData\UserPIN\bin\Debug\net5.0\UserPIN.pdb
+C:\Users\Grinya\source\repos\UserData\UserPIN\obj\Debug\net5.0\UserPIN.csproj.AssemblyReference.cache
+C:\Users\Grinya\source\repos\UserData\UserPIN\obj\Debug\net5.0\UserPIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grinya\source\repos\UserData\UserPIN\obj\Debug\net5.0\UserPIN.AssemblyInfoInputs.cache
+C:\Users\Grinya\source\repos\UserData\UserPIN\obj\Debug\net5.0\UserPIN.AssemblyInfo.cs
+C:\Users\Grinya\source\repos\UserData\UserPIN\obj\Debug\net5.0\UserPIN.csproj.CoreCompileInputs.cache
+C:\Users\Grinya\source\repos\UserData\UserPIN\obj\Debug\net5.0\UserPIN.dll
+C:\Users\Grinya\source\repos\UserData\UserPIN\obj\Debug\net5.0\ref\UserPIN.dll
+C:\Users\Grinya\source\repos\UserData\UserPIN\obj\Debug\net5.0\UserPIN.pdb
+C:\Users\Grinya\source\repos\UserData\UserPIN\obj\Debug\net5.0\UserPIN.genruntimeconfig.cache
